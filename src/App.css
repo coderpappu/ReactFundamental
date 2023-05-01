@@ -1,0 +1,50 @@
+.header {
+  text-align: center;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+
+.singleTopFreelancer {
+  width: 170px;
+  height: 201px;
+  overflow: hidden;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.profile img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.profile {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.bioTxt h3 {
+  padding: 0;
+  margin: 0;
+  font-size: 7px;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.freelnacerInfo h2 {
+  font-size: 14px;
+  text-align: center;
+}
+
+.freelnacerInfo p {
+  font-size: 8px;
+  text-align: justify;
+  padding: 0px 27px;
+}
+.allTopFreelancerInfo {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0px 45px;
+}
